@@ -1,0 +1,15 @@
+{
+  "name": "json-server-railway",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+     "start": "json-server ./database.json --host 0.0.0.0 --port 3000"
+  },
+  "keywords": [],
+  "author": "Vega de la Lyra <lyradeperseo@gmail.com> (https://www.linkedin.com/in/vegadelalyra/)",
+  "license": "MIT",
+  "devDependencies": {
+    "json-server": "^0.17.3"
+  }
+}
